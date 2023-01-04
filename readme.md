@@ -24,7 +24,9 @@
 
 ## 移除元素
 
-:white_large_square: 26.删除排序数组中的重复项
+:white_check_mark: [27. 移除元素](https://leetcode.cn/problems/remove-element/)
+
+:white_check_mark: 26.删除排序数组中的重复项
 
 :white_large_square: ​283.移动零
 
