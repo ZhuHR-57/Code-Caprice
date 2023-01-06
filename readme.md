@@ -32,5 +32,13 @@
 
 :white_check_mark: 844.比较含退格的字符串
 
-:white_large_square: ​977.有序数组的平方
+:white_check_mark: 977.有序数组的平方
+
+:white_check_mark: [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) （弱版滑动窗口）
+
+## 长度最小的子数组
+
+:white_large_square: ​[904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
+
+:white_large_square: ​[76.最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
 
