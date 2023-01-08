@@ -20,7 +20,7 @@
 
 :white_check_mark: 69.x的平方根
 
-:white_check_mark:367.有效的完全平方数
+:white_check_mark: 367.有效的完全平方数
 
 ## 移动元素 （双指针的应用）
 
@@ -40,15 +40,13 @@
 
 :white_check_mark:  [904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
 
-## 长度最小的子数组
-
-:white_large_square: ​[76.最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
+:white_check_mark: [76.最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
 
 ## 循环控制
 
 :white_check_mark: [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)
 
-:white_large_square: [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
+:white_check_mark: [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
 
 :white_large_square: [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
