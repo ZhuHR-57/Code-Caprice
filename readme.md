@@ -34,11 +34,21 @@
 
 :white_check_mark: 977.有序数组的平方
 
+### 滑动窗口 (难)
+
 :white_check_mark: [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) （弱版滑动窗口）
+
+:white_check_mark:  [904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
 
 ## 长度最小的子数组
 
-:white_large_square: ​[904.水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)
-
 :white_large_square: ​[76.最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
+
+## 循环控制
+
+:white_check_mark: [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)
+
+:white_large_square: [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
+
+:white_large_square: [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
