@@ -48,5 +48,10 @@
 
 :white_check_mark: [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
 
-:white_large_square: [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+:white_check_mark: [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
+# 链表
+
+:white_large_square: [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)
+
+:white_large_square: [707. 设计链表](https://leetcode.cn/problems/design-linked-list/)
