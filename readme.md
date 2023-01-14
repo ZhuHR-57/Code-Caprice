@@ -52,6 +52,6 @@
 
 # 链表
 
-:white_large_square: [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)
+:white_check_mark: [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)
 
-:white_large_square: [707. 设计链表](https://leetcode.cn/problems/design-linked-list/)
+:white_check_mark: [707. 设计链表](https://leetcode.cn/problems/design-linked-list/)
