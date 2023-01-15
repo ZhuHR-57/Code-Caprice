@@ -1,4 +1,4 @@
-# 代码随想录
+# 代码随想录的练习记录
 
 **一些随笔...** 
 
@@ -10,7 +10,7 @@
 
 
 
-# 数组
+# :one: 数组
 
 ## 二分查找 
 
@@ -50,7 +50,7 @@
 
 :white_check_mark: [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
-# 链表
+# :two: 链表
 
 :white_check_mark: [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)
 
@@ -66,4 +66,4 @@
 
 :white_check_mark: [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) 【笔记待补充】
 
-# 哈希表
+# :three:  哈希表
