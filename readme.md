@@ -72,6 +72,6 @@
 
 :white_check_mark: [383. 赎金信](https://leetcode.cn/problems/ransom-note/) 【笔记待补充】
 
-:white_check_mark: [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) 【笔记待补充】
+:white_check_mark: [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) 【笔记待补充】（难）
 
 :white_check_mark: [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) 【笔记待补充】
