@@ -75,3 +75,11 @@
 :white_check_mark: [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) 【笔记待补充】（难）
 
 :white_check_mark: [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) 【笔记待补充】
+
+:white_check_mark: [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) 【笔记待补充】
+
+:white_check_mark: [350. 两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) 【笔记待补充】
+
+:white_check_mark: [202. 快乐数](https://leetcode.cn/problems/happy-number/) 【笔记待补充】
+
+:white_check_mark: [1. 两数之和](https://leetcode.cn/problems/two-sum/) 【笔记待补充】
