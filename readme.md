@@ -83,3 +83,7 @@
 :white_check_mark: [202. 快乐数](https://leetcode.cn/problems/happy-number/) 【笔记待补充】
 
 :white_check_mark: [1. 两数之和](https://leetcode.cn/problems/two-sum/) 【笔记待补充】
+
+:white_check_mark: [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/) 【笔记待补充】
+
+:white_check_mark: [15. 三数之和](https://leetcode.cn/problems/3sum/) 【笔记待补充】【难】
