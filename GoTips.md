@@ -11,8 +11,21 @@ nums := [4]int{1:-1,3:-1}
 ```go
 answer1 := make([][]int, row)
 for i := range answer1 {
-	answer1[i] = make([]int, column)
+    answer1[i] = make([]int, column)
 }
+```
+
+> 添加二维数组
+
+```go
+mp := map[string][]string{}
+ans := make([][]string,0,len(mp))
+// 直接添加新的一个一维数组，也就是增加了行数
+// 不是在一个一维数组后面添加，也就书不是增加列数
+for _,v := range mp {
+    ans = append(ans,v)
+}
+// ans = [["...","...","..."],["...","..."],["..."]]
 ```
 
 
@@ -24,7 +37,7 @@ for i := range answer1 {
 > + nums[起始位置:截取长度]
 > + 最终会截取的字符个数 = 截取长度 - 起始位置
 
-```
+```go
 s := "abc"
 fmt.Println(s[1:2]) // b
 fmt.Println(s[1:3]) // bc
@@ -44,13 +57,21 @@ if srt1 == str2 { ... } //区分大小写
 fmt.Println(strings.EqualFold("GO","go")) // 不区分大小写
 ```
 
+> 字符串中字符排序
+
+```go
+s := []byte(str)
+sort.Slice(s,func(i,j int) bool { return s[i] < s[j]} )
+sortedStr := string(s)
+```
+
 
 
 # Map
 
 > 初始化map
 
-```
+```go
 sl,tl := len(s),len(t)          // 获取字符串长度
 tm := make(map[rune]int,tl)     // 初始化一个map数据结构
 ```
