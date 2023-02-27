@@ -1,6 +1,6 @@
 # 算法练习记录
 
-+ [:person_with_blond_hair:]()​
++ [:man:](https://gitee.com/wosongtx/leetcodex.git)
 
 + 听说没完成的要**请喝水 ！！！**
 
