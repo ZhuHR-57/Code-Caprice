@@ -1,15 +1,4 @@
-# 算法练习记录
-
-+ [:person_with_blond_hair:]()​
-
-+ 听说没完成的要**请喝水 ！！！**
-+ 期待一瓶**燕塘的牛奶**
-
-</br></br></br>
-
-
-
-# :one:链表
+# :one: ​链表
 
 |         状态         | 题目                                                         |        日期        |
 | :------------------: | :----------------------------------------------------------- | :----------------: |
@@ -18,4 +7,16 @@
 | :white_large_square: | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 2023 03-03 ~ 03-04 |
 | :white_large_square: | [面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/submissions/) | 2023 03-05 ~ 03-06 |
 | :white_large_square: | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 2023 03-07 ~ 03-08 |
+| :white_large_square: | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/) | 2023 03-09 ~ 03-10 |
+
+# :two: 哈希表
+
+| 状态                 | 题目                                                         | 日期               |
+| -------------------- | ------------------------------------------------------------ | ------------------ |
+| :white_large_square: | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/) | 2023 03-09 ~ 03-10 |
+| :white_large_square: | [383. 赎金信](https://leetcode.cn/problems/ransom-note/)     | 2023 03-11 ~ 03-12 |
+|                      |                                                              |                    |
+|                      |                                                              |                    |
+|                      |                                                              |                    |
+|                      |                                                              |                    |
 
