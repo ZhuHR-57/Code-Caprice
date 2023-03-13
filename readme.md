@@ -23,8 +23,8 @@
 
 |         状态         | 题目                                                         |        日期        |    期待    |
 | :------------------: | :----------------------------------------------------------- | :----------------: | :--------: |
-| :white_large_square: | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/) | 2023 03-11 ~ 03-12 | **宝矿力** |
-| :white_large_square: | [383. 赎金信](https://leetcode.cn/problems/ransom-note/)     | 2023 03-13 ~ 03-14 | **宝矿力** |
+|  :white_check_mark:  | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/submissions/) | 2023 03-11 ~ 03-12 | **宝矿力** |
+| ::white_check_mark:  | [383. 赎金信](https://leetcode.cn/problems/ransom-note/)     | 2023 03-13 ~ 03-14 | **宝矿力** |
 | :white_large_square: | [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 2023 03-15 ~ 03-16 | **宝矿力** |
 | :white_large_square: | [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | 2023 03-17 ~ 03-18 | **宝矿力** |
 | :white_large_square: | [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | 2023 03-19 ~ 03-20 | **宝矿力** |
